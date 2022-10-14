@@ -10,7 +10,7 @@
 
 ---
 
-![myproject](jokes.png)
+![myproject](./Image/jokes.png)
 
 ---
 
