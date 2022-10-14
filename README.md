@@ -5,7 +5,7 @@
 ### By Chhakuli zingare
 
 
-## 🔗Live Link -: [Jokes-App](https://color-changing-app-by-chhakuli.netlify.app/)
+## 🔗Live Link -: [Jokes-App](https://jokes-app-by-chhakuli.netlify.app/)
  
 
 ---
